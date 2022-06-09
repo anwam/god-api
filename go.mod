@@ -1,6 +1,7 @@
 module github.com/anwam/god-api
 
-go 1.17
+// +heroku goVersion 1.18
+go 1.18
 
 require github.com/gin-gonic/gin v1.8.1
 
