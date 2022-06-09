@@ -1,1 +1,1 @@
-web: bin/awesome-god-api
+web: bin/god-api
